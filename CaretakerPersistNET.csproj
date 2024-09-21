@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CaretakerCore.NET" Version="1.0.2" />
+    <PackageReference Include="CaretakerCoreDiscord.NET" Version="1.0.0" />
+    <PackageReference Include="Discord.NET" Version="3.16.0" />
+    <PackageReference Include="YamlDotNet" Version="16.1.2" />
+  </ItemGroup>
+
+</Project>
